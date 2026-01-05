@@ -52,7 +52,7 @@ El uso de flancos convierte una señal sostenida en un evento único, lo que evi
 
 El profesor aclaró que aplicar directamente el flanco sobre la entrada es una **mala práctica**; se hizo aquí solo para fines didácticos. Más adelante se verá cómo implementarlo correctamente mediante bloques de flancos.  
 
-El [archivo del proyecto](enlace) está incluido en este repositorio para que cualquier persona con acceso a **TIA Portal V16** pueda abrirlo y realizar la simulación.  
+El [archivo del proyecto](https://github.com/SantiagoBaeza/Uso-de-flancos-positivos-y-negativos-en-PLC/blob/main/06%20uso%20de%20flancos%20positivos%20y%20negativos.ap16) está incluido en este repositorio para que cualquier persona con acceso a **TIA Portal V16** pueda abrirlo y realizar la simulación.  
 Este ejercicio tiene como objetivo servir de práctica y dejar registro de mis avances en programación de PLC.
 
 ---
